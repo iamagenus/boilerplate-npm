@@ -17,5 +17,7 @@
     "freecodecamp",
     "related",
     "words"
-  ]
+  ],
+  "license": "MIT",
+  "version": "1.2.0"
 }
