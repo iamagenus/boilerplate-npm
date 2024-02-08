@@ -12,6 +12,10 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "author": "Brandon Lewandowski",
-  "description": "A project that does something awesome"
-  "keywords": [ "descriptive", "related", "words" ],
+  "description": "A project that does something awesome",
+  "keywords": [
+    "freeCodeCamp",
+    "related",
+    "words"
+  ]
 }
